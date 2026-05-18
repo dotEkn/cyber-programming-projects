@@ -1,14 +1,14 @@
 # 02-Log-Analyzer
 
-## Overview
-
-Short description of what the project does.
+A simple Python tool for analyzing authentication logs and detecting suspicious SSH login activity.
 
 ## Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Parse Linux auth logs
+- Detects failed SSH login attempts
+- Counts attempts per source IP
+- Flags suspicious IPs based on thresholds
+- Generates a basic report
 
 ## Technologies
 
