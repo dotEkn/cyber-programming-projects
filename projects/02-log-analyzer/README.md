@@ -10,15 +10,17 @@ A simple Python tool for analyzing authentication logs and detecting suspicious 
 - Flags suspicious IPs based on thresholds
 - Generates a basic report
 
-## Technologies
+## What I Learned
 
-- Tech 1
-- Tech 2
-- Tech 3
+- Regex Parsing
+- Log Analysis
+- Basic Detection Logic
+- Python Counter
+- Blue-Team Security Workflows
 
 ## How to Run
 
 ```bash
-python src/main.py
+python src/analyzer.py
 ```
 
