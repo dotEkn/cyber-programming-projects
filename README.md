@@ -23,7 +23,7 @@ Simple multi-threaded TCP port scanner built with Python
 **Focus:** Networking, Sockets, Threading
 **Status:** 🟡 In Progress
 
-### 🟡 02 [Log Analyzer](projects/02-log-analyzer/)
+### 🟡 02 - [Log Analyzer](projects/02-log-analyzer/)
 Analyze Linux Authentication logs and detext suspicious SSH activity.
 
 **Focus:** Log parsing, Regex, Blue-Team Analysis
@@ -31,13 +31,13 @@ Analyze Linux Authentication logs and detext suspicious SSH activity.
 
 ## Planned Projects
 
-### 🔲 03 — File Integrity Monitor
+### 🔲 03 - File Integrity Monitor
 Monitor file changes using hashing and filesystem tracking.
 
-### 🔲 04 — Honeypot
+### 🔲 04 - Honeypot
 Simulate an SSH service and log attacker behavior.
 
-### 🔲 05 — Threat Intel Dashboard
+### 🔲 05 - Threat Intel Dashboard
 Aggregate and visualize threat intelligence feeds.
 
 ## Goals
