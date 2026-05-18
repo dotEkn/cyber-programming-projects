@@ -21,6 +21,17 @@ A simple Python tool for analyzing authentication logs and detecting suspicious 
 ## How to Run
 
 ```bash
-python src/analyzer.py
+python src/analyzer.py sample_logs/auth.log
 ```
+
+**Without saving the report**
+```bash
+python src/analyzer.py sample_logs/auth.log --no-save
+```
+
+**With output file**
+```bash
+python src/analyzer.py sample_logs/auth.log -o reports/auth_report.json
+```
+
 
