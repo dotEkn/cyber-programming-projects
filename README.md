@@ -19,10 +19,10 @@ This repository is used to practice and demonstrace practical skills in:
 
 | # | Project | Focus | Status |
 |---|---------|-------|--------|
-| 01 | Port Scanner | Networking, Sockets | Planned |
+| 01 | Port Scanner | Networking, Sockets | Started |
 | 02 | Log Analyzer | Blue Team, Parsing, Detection | Planned |
 | 03 | File Integrity Monitor | Hashing, Monitoring | Planned |
-| 04 | Honeypot | Logging, Attacker Behavior | Plannd |
+| 04 | Honeypot | Logging, Attacker Behavior | Planned |
 | 05 | Threat Intel Dashboard | APIs, Dashboards, Security Data | Planned |
 
 ## Goals
