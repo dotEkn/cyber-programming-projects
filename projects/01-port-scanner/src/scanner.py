@@ -44,7 +44,11 @@ def main():
     for port, is_open in results:
       if is_open:
         open_ports.append(port)
-        print(f"[OPEN] Port {port}")
+        try:
+          service = socket.getservbyport(port)
+        except:
+          service = "unknown"
+        print(f"[OPEN] Port {port} ({service})")
 
   print("\nScan Complete.")
   print("fOpen ports found: {len(open_ports)}")
