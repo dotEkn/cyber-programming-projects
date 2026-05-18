@@ -11,6 +11,9 @@ A simple TCP Port scanner built with Python.
 
 ## Usage
 
+I used the ``scanme.nmap.org``, which is meant to be scanned for educational use.
+
+**Scan a port range**
 ```bash
 python src/scanner.py <ipadress> -p 1-1024
 ```
